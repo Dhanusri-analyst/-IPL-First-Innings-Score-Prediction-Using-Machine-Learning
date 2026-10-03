@@ -142,7 +142,6 @@ The application uses the saved Random Forest pipeline to predict the final first
 
 
 
-
 ## 📁 Project Structure
 
 ```text
@@ -210,8 +209,7 @@ http://localhost:8501
 
 https://www.linkedin.com/in/dhanusri-prabhakaran-19106b329
 
-github.com/Dhanusri-analyst
-
+https://github.com/Dhanusri-analyst
 
 
 ⭐ If you find this project interesting, feel free to explore the repository.
