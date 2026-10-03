@@ -158,35 +158,27 @@ IPL-Score-Prediction/
 
 ### 1. Clone the Repository
 
-```bash
-git clone <your-github-repository-url>
-```
+git clone https://github.com/Dhanusri-analyst/-IPL-First-Innings-Score-Prediction-Using-Machine-Learning.git
 
 ### 2. Navigate to the Project Folder
 
-```bash
-cd IPL-Score-Prediction
-```
+-IPL-First-Innings-Score-Prediction-Using-Machine-Learning
 
 ### 3. Install the Required Libraries
 
-```bash
-pip install -r requirements.txt
-```
+pip install -r IPL requirements.txt
+
 
 ### 4. Run the Streamlit Application
 
-```bash
 streamlit run ipl_app.py
-```
 
 ### 5. Open the Application
 
 Open the local URL displayed in your terminal, usually:
 
-```text
+
 http://localhost:8501
-```
 
 ## ⚠️ Limitations
 
